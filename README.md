@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+ <a href="www.linkedin.com/in/atharva-vyas-94491b1a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@gmail.com">
