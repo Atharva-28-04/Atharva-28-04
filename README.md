@@ -4,10 +4,19 @@
 ### Full Stack Developer & React Native Explorer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&duration=3000&pause=1000&color=818cf8&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;React+Native+Explorer;Creator+of+EventHub360;Always+Learning+New+Tech🚀" alt="Typewriter Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=26&duration=3000&pause=1000&color=ff5376&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;React+Native+Explorer;Creator+of+EventHub360;Always+Learning+New+Tech🚀" alt="Typewriter Subtitle" />
 </p>
 
-[![Profile Views Counter](https://komarev.com/ghpvc/?username=Atharva-28-04&color=818cf8&style=flat-square)](https://github.com/Atharva-28-04)
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+[![Profile Views Counter](https://komarev.com/ghpvc/?username=Atharva-28-04&color=ff5376&style=flat-square)](https://github.com/Atharva-28-04)
 
 </div>
 
@@ -78,12 +87,12 @@ I am a B.Tech Computer Science student specializing in building responsive mobil
 ### 📊 GitHub Analysis & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-28-04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-28-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atharva-28-04&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharva-28-04&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-28-04&theme=tokyonight&hide_border=true" alt="Streak Stats" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharva-28-04&theme=radical&hide_border=true" alt="Streak Stats" width="98%" />
 </p>
 
 ---
